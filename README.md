@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Nithish2kumar.Nithish2kumar&color=00F7FF&style=for-the-badge" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SudoNK.SudoNK&color=00F7FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -64,10 +64,10 @@ learning: Industrial Control System (ICS/SCADA) Security • Malware Analysis �
 
 | Project | Description |
 |---|---|
-| 🛡️ [**SCADA-Baseline-IDS**](https://github.com/Nithish2kumar/SCADA-Baseline-IDS) | A Python-based SCADA Intrusion Detection System for Modbus TCP traffic analysis, asset discovery, and anomaly detection |
-| 🍯 [**Industrial-HoneyPot**](https://github.com/Nithish2kumar/Industrial-HoneyPot) | A Python-based deception honeypot for Industrial Control Systems with Modbus traffic analysis and attack detection |
-| 🔍 [**MiniIDS**](https://github.com/Nithish2kumar/MiniIDS) | A lightweight Intrusion Detection System built using Python and Scapy |
-| 🌐 [**Network-Forensics-Tool**](https://github.com/Nithish2kumar/Network-Forensics-Tool) | Offline network traffic analysis tool for packet inspection and suspicious activity detection |
+| 🛡️ [**SCADA-Baseline-IDS**](https://github.com/SudoNK/SCADA-Baseline-IDS) | A Python-based SCADA Intrusion Detection System for Modbus TCP traffic analysis, asset discovery, and anomaly detection |
+| 🍯 [**Industrial-HoneyPot**](https://github.com/SudoNK/Industrial-HoneyPot) | A Python-based deception honeypot for Industrial Control Systems with Modbus traffic analysis and attack detection |
+| 🔍 [**MiniIDS**](https://github.com/SudoNK/MiniIDS) | A lightweight Intrusion Detection System built using Python and Scapy |
+| 🌐 [**Network-Forensics-Tool**](https://github.com/SudoNK/Network-Forensics-Tool) | Offline network traffic analysis tool for packet inspection and suspicious activity detection |
 
 <br/>
 
@@ -76,7 +76,7 @@ learning: Industrial Control System (ICS/SCADA) Security • Malware Analysis �
 <div align="center">
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Nithish2kumar&theme=tokyonight&hide_border=true" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=SudoNK&theme=tokyonight&hide_border=true" alt="streak graph" />
 
 <br/>
 
