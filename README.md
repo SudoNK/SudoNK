@@ -30,7 +30,7 @@
 
 <img src="assets/ids.svg" alt="Modbus packets passing an IDS, one flagged" width="100%" />
 
-**Intrusion detection for SCADA.** Modbus TCP traffic analysis, asset discovery and anomaly detection against a learned baseline.
+**Intrusion detection for SCADA.** Modbus TCP traffic analysis, basic asset discovery and anomaly detection against a learned baseline.
 
 `Python` `Modbus TCP`
 
