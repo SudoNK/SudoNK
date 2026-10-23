@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏭 [SCADA-Baseline-IDS](https://github.com/SudoNK/SCADA-IDS)
+### 🏭 [SCADA-IDS](https://github.com/SudoNK/SCADA-IDS)
 
 <img src="assets/ids.svg" alt="Modbus packets passing an IDS, one flagged" width="100%" />
 
