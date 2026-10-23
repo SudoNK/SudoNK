@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" role="img" aria-label="LSB steganography: a secret bit hidden in a pixel"><style>text{font-family:"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:"SFMono-Regular",Consolas,monospace}</style>
+<rect width="900" height="200" rx="14" fill="#0d1117"/>
+<g class="m" font-size="18" text-anchor="middle"><text x="150" y="60" fill="#8b949e" font-size="13">pixel byte</text><text x="150" y="100" fill="#c9d1d9">1011001<tspan fill="#8b949e">0</tspan></text>
+<text x="450" y="60" fill="#8b949e" font-size="13">secret bit</text><text x="450" y="100" fill="#d29922">1</text>
+<text x="750" y="60" fill="#8b949e" font-size="13">stego byte</text><text x="750" y="100" fill="#c9d1d9">1011001<tspan fill="#3fb950">1</tspan></text></g>
+<g stroke="#58a6ff" stroke-width="2" fill="none"><path d="M230 95 H400"/><path d="M500 95 H670"/></g>
+<circle r="5" fill="#58a6ff" cy="95"><animate attributeName="cx" values="230;670" dur="3s" repeatCount="indefinite"/></circle>
+<text x="450" y="160" fill="#8b949e" font-size="14" text-anchor="middle">only the least-significant bit changes — invisible to the eye</text>
+</svg>

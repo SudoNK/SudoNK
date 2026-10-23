@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" role="img" aria-label="Capture, analyse, detect, defend pipeline"><style>text{font-family:"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:"SFMono-Regular",Consolas,monospace}</style>
+<rect width="900" height="140" rx="14" fill="#0d1117"/>
+<g fill="#161b22" stroke="#58a6ff" stroke-width="2"><rect x="30" y="40" width="170" height="60" rx="10"/><rect x="250" y="40" width="170" height="60" rx="10"/><rect x="470" y="40" width="170" height="60" rx="10"/><rect x="690" y="40" width="170" height="60" rx="10"/></g>
+<g fill="#c9d1d9" font-size="18" text-anchor="middle"><text x="115" y="77">Capture</text><text x="335" y="77">Analyse</text><text x="555" y="77">Detect</text><text x="775" y="77">Defend</text></g>
+<g stroke="#8b949e" stroke-width="2"><path d="M200 70H250"/><path d="M420 70H470"/><path d="M640 70H690"/></g>
+<rect x="30" y="40" width="170" height="60" rx="10" fill="none" stroke="#3fb950" stroke-width="3"><animate attributeName="x" values="30;250;470;690;30" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
